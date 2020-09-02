@@ -8,9 +8,10 @@ Can be played at: [ameste.se](https://ameste.se/sim/simon.html)
 Todo:
 
 1. Read the code
-2. Sound effects?
-3. Rewrite the vode
-4. Remake the game with Vue or React
+2. Scoreboard (SQL/MongoDB)
+3. Sound effects?
+4. Rewrite the code
+5. Remake the game with Vue or React
 ```
-To clone his repo use this command: git clone https://github.com/amesteDev/simon_says
+To clone this repo use this command: git clone https://github.com/amesteDev/simon_says
 ```
