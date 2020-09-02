@@ -11,3 +11,5 @@ Todo:
 2. Sound effects?
 3. Rewrite the vode
 4. Remake the game with Vue or React
+
+To clonet his repo use this command: git clone https://github.com/amesteDev/simon_says
