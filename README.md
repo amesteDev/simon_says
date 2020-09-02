@@ -8,5 +8,6 @@ Can be played at: [ameste.se](https://ameste.se/sim/simon.html)
 Todo:
 
 1. Read the code
-2. Rewrite the vode
-3. Remake the game with Vue or React
+2. Sound effects?
+3. Rewrite the vode
+4. Remake the game with Vue or React
